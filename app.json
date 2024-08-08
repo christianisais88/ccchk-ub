@@ -3,22 +3,23 @@
     "API_ID": {
       "description": "Get Api id :-  https://my.telegram.org/auth",
       "required": true,
-      "value": ""
+      "value": "21702889"
     },
     "API_HASH": {
       "description": "Get Api hash from :-  https://my.telegram.org/auth",
       "required": true,
-      "value": ""
+      "value": "5f335650af27f5374b026324d84e6553"
     },
     "STRING_SESSION": {
       "description": "Gen your telethon string session",
       "required": true,
-      "value": ""
+      "value": "1AZWarzoBuxaq71fdegr9XnTBq_80UKz-SE8PkClLB8RJ-T_kr4-5corgxitlFHXLqgXIf1_-2LtQTmlA-VW3jK6qtJqL_XBaWG3mZJ3nAViING00MyVVwSiQwymeYEysjCqjCX4AYOBORiWkh0OiPpmCtMDOS_I5j8RMjLO9JVvYwy9ud6cahJk0dbLQJ81QjWtiC9cJdWjVFZbfAVAFRF_x-xrcONm51nJl047K9hOzD1JM3YQt9_vrXzPoxkVVYqO1T5JxHSLOiaUf8hTWR3Q0gm2ot2QYUAFBYCpSShLMe88SQpUphlQmrk9Mhs9lUJw4k5ChD1g_MSwjWm4INUI0KvOtOSk="
+
     },
     "DUMP_ID": {
       "description": "Channel_id where u want to send ccs",
       "required": true,
-      "value": ""
+      "value": "-4229216034"
     }
   },
   "stack": "heroku-22",
@@ -28,3 +29,5 @@
     }
   ]
 }
+
+
